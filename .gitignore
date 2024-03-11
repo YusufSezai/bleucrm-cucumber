@@ -1,0 +1,14 @@
+
+.idea/
+
+target/
+
+test-output/
+
+*.class
+
+*.log
+
+*.iml
+*.ipr
+*.iws
